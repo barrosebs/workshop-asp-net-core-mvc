@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Authors>Eduardo Barros</Authors>
+    <Company>Developed EB</Company>
+    <NeutralLanguage>Português-BR</NeutralLanguage>
   </PropertyGroup>
 
   <ItemGroup>
